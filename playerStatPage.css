@@ -1,0 +1,398 @@
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 428px;
+height: 941px;
+left: 0px;
+top: -15px;
+
+background: #FF9595;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 129px;
+height: 94px;
+left: 8px;
+top: 11px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 129px;
+height: 719px;
+left: 8px;
+top: 159px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 270px;
+height: 528px;
+left: 147px;
+top: 159px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 270px;
+height: 182px;
+left: 147px;
+top: 715px;
+
+background: #C4C4C4;
+
+
+/* Player Name */
+
+
+position: absolute;
+width: 106px;
+height: 65px;
+left: 19px;
+top: 26px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 129px;
+height: 106px;
+left: 8px;
+top: 159px;
+
+background: #244DB7;
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 129px;
+height: 105px;
+left: 8px;
+top: 371px;
+
+background: #244DB7;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 129px;
+height: 105px;
+left: 8px;
+top: 582px;
+
+background: #244DB7;
+
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 129px;
+height: 104px;
+left: 8px;
+top: 793px;
+
+background: #244DB7;
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 129px;
+height: 106px;
+left: 8px;
+top: 265px;
+
+background: #B13131;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 129px;
+height: 106px;
+left: 8px;
+top: 476px;
+
+background: #B13131;
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 129px;
+height: 106px;
+left: 8px;
+top: 687px;
+
+background: #B13131;
+
+
+/* Stat Box */
+
+
+position: absolute;
+width: 180px;
+height: 79px;
+left: 184px;
+top: 766px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Stat 1 */
+
+
+position: absolute;
+width: 86px;
+height: 54px;
+left: 27px;
+top: 190px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Stat 2 */
+
+
+position: absolute;
+width: 86px;
+height: 54px;
+left: 27px;
+top: 290px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Stat 3 */
+
+
+position: absolute;
+width: 86px;
+height: 55px;
+left: 27px;
+top: 394px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Stat 4 */
+
+
+position: absolute;
+width: 86px;
+height: 54px;
+left: 27px;
+top: 503px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Stat 5 */
+
+
+position: absolute;
+width: 86px;
+height: 56px;
+left: 27px;
+top: 606px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Stat 6 */
+
+
+position: absolute;
+width: 86px;
+height: 55px;
+left: 27px;
+top: 713px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Stat 7 */
+
+
+position: absolute;
+width: 86px;
+height: 56px;
+left: 27px;
+top: 816px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Player Image */
+
+
+position: absolute;
+width: 149px;
+height: 317px;
+left: 202px;
+top: 265px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 59px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 262px;
+height: 94px;
+left: 155px;
+top: 11px;
+
+background: #C4C4C4;
+
+
+/* Nav Bar */
+
+
+position: absolute;
+width: 202px;
+height: 65px;
+left: 184px;
+top: 26px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 41px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
